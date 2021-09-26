@@ -1,0 +1,20 @@
+{
+  "name": "rateYourAlbumsAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Gustavo59/rateYourAlbumsAPI.git",
+  "author": "Gustavo59 <gustavosbarros59@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./bin/app.js",
+    "dev": "ts-node ./src/app.ts"
+  },
+  "dependencies": {
+    "@types/node": "^16.10.1",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.2.1"
+  }
+}
