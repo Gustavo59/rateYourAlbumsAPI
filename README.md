@@ -1,3 +1,1 @@
 # rateYourAlbumsAPI
-
-Teste 2
